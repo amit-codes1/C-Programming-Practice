@@ -10,12 +10,12 @@ This repository contains my C programming practice programs while learning C.
 
 ## Programs
 
-### Basics
+### Basics:
 - Even Odd Checker
 - Positive Negative Checker
 - CelsiustoFarenheit and more...
 
-### Conditional Statements
+### Conditional Statements:
 - Simple Calculator
 - Electricity Bill Calculator
 - Income Tax Calculator and more...

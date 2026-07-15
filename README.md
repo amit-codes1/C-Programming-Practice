@@ -7,6 +7,7 @@ This repository contains my C programming practice programs while learning C.
 - Variables
 - Input/Output
 - Conditional Statements
+- Loops
 
 ## Programs
 
@@ -19,3 +20,8 @@ This repository contains my C programming practice programs while learning C.
 - Simple Calculator
 - Electricity Bill Calculator
 - Income Tax Calculator and more...
+
+### Loops:
+- Palindrome Number
+- Armstrong Number
+- Reverse the entered number nad more...

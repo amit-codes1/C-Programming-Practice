@@ -25,3 +25,8 @@ This repository contains my C programming practice programs while learning C.
 - Palindrome Number
 - Armstrong Number
 - Reverse the entered number and more...
+
+### Functions and Recursion:
+-Maximum of two numbers
+-Reverse the number
+-Sum of digits using Recursion and more...

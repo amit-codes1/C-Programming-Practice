@@ -8,6 +8,8 @@ This repository contains my C programming practice programs while learning C.
 - Input/Output
 - Conditional Statements
 - Loops
+- Functions and Recursion
+- Pointer
 
 ## Programs
 
@@ -27,6 +29,11 @@ This repository contains my C programming practice programs while learning C.
 - Reverse the entered number and more...
 
 ### Functions and Recursion:
--Maximum of two numbers
--Reverse the number
--Sum of digits using Recursion and more...
+- Maximum of two numbers
+- Reverse the number
+- Sum of digits using Recursion and more...
+
+### Pointer:
+- Swap Number using pointer
+- Calculate sum and average using pointer
+- Sort three numbers in Ascending Order using pointer and more...

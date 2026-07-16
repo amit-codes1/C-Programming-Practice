@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Works only for 3 digit ARMSTRONG Number.
+
 int main()
 {
 

@@ -37,3 +37,8 @@ This repository contains my C programming practice programs while learning C.
 - Swap Number using pointer
 - Calculate sum and average using pointer
 - Sort three numbers in Ascending Order using pointer and more...
+
+### Arrays:
+- Reverse an array
+- Insert element in array
+- Print second largest number and more...

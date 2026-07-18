@@ -10,6 +10,8 @@ This repository contains my C programming practice programs while learning C.
 - Loops
 - Functions and Recursion
 - Pointer
+- Arrays
+- Pointer Arithmetic
 
 ## Programs
 
@@ -41,4 +43,10 @@ This repository contains my C programming practice programs while learning C.
 ### Arrays:
 - Reverse an array
 - Insert element in array
-- Print second largest number and more...
+- Print second largest number 
+- Check whether an array is Sorted and more...
+
+### Pointer Arithmetic:
+- Reverse an array using pointer
+- Print an array using pointer
+- Pointer Increment/Decrement and more...

@@ -50,3 +50,9 @@ This repository contains my C programming practice programs while learning C.
 - Reverse an array using pointer
 - Print an array using pointer
 - Pointer Increment/Decrement and more...
+
+### Strings:
+- Check Vowels
+- Check Palindrome
+- Count Words
+- Find the most frequent letter and more...

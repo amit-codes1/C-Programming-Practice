@@ -55,4 +55,5 @@ This repository contains my C programming practice programs while learning C.
 - Check Vowels
 - Check Palindrome
 - Count Words
-- Find the most frequent letter and more...
+- Find the most frequent letter 
+- Find the First Non-Repeating Character and more...

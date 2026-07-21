@@ -57,3 +57,10 @@ This repository contains my C programming practice programs while learning C.
 - Count Words
 - Find the most frequent letter 
 - Find the First Non-Repeating Character and more...
+
+### Structures:
+- Compare two Student Marks
+- Highest Salary Employee
+- Store and Display Product Details
+- Student Database
+- Search Student by Roll Number and more...

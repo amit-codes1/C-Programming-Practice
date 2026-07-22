@@ -64,3 +64,8 @@ This repository contains my C programming practice programs while learning C.
 - Store and Display Product Details
 - Student Database
 - Search Student by Roll Number and more...
+
+### File I/O:
+- Count characters in a file
+- Copy one file to another
+- Store five numbers and more...

@@ -68,4 +68,6 @@ This repository contains my C programming practice programs while learning C.
 ### File I/O:
 - Count characters in a file
 - Copy one file to another
-- Store five numbers and more...
+- Store five numbers 
+- Count Vowels 
+- Find the Average and more...

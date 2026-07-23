@@ -7,14 +7,13 @@ int main()
 
     FILE *ptr;
 
-    ptr = fopen("message.txt", "a");
+    ptr = fopen("message.txt", "w");
 
-    if (ptr==NULL)
+    if (ptr == NULL)
     {
         printf("File doesn't exist.");
         return 1;
     }
-    
 
     char str[50];
 

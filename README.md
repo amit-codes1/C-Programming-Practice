@@ -12,6 +12,10 @@ This repository contains my C programming practice programs while learning C.
 - Pointer
 - Arrays
 - Pointer Arithmetic
+- Strings
+- Structures
+- Files
+- Dynamic Memory Allocation
 
 ## Programs
 
@@ -71,3 +75,9 @@ This repository contains my C programming practice programs while learning C.
 - Store five numbers 
 - Count Vowels 
 - Find the Average and more...
+
+### Dynamic Memory Allocation:
+- Find the Sum
+- Reverse the Array
+- Resize the Array
+- Delete an Element and more...

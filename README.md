@@ -16,6 +16,7 @@ This repository contains my C programming practice programs while learning C.
 - Structures
 - Files
 - Dynamic Memory Allocation
+- Preprocessor Directives
 
 ## Programs
 
@@ -81,3 +82,9 @@ This repository contains my C programming practice programs while learning C.
 - Reverse the Array
 - Resize the Array
 - Delete an Element and more...
+
+### Preprocessor Directives:
+- Area of a Circle Using a Macro
+- Find the Larger Number
+- Temperature Converter Using Conditional Compilation
+- Check Even or Odd Using a Macro and more...

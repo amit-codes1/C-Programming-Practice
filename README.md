@@ -17,6 +17,7 @@ This repository contains my C programming practice programs while learning C.
 - Files
 - Dynamic Memory Allocation
 - Preprocessor Directives
+- Command Line Arguments
 
 ## Programs
 
@@ -89,3 +90,8 @@ This repository contains my C programming practice programs while learning C.
 - Temperature Converter Using Conditional Compilation
 - Check Even or Odd Using a Macro 
 - Swap Two Numbers Using a Macro and more...
+
+### Command Line Arguments:
+- Display All Command Line Arguments
+- Find the Larger Number
+- Calculate Average of Multiple Numbers

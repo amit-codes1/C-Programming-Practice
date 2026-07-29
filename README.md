@@ -95,3 +95,5 @@ This repository contains my C programming practice programs while learning C.
 - Display All Command Line Arguments
 - Find the Larger Number
 - Calculate Average of Multiple Numbers
+- Count Even and Odd Numbers
+- Reverse the Order of Command Line Arguments and more...

@@ -18,6 +18,7 @@ This repository contains my C programming practice programs while learning C.
 - Dynamic Memory Allocation
 - Preprocessor Directives
 - Command Line Arguments
+- Bitwise Operators
 
 ## Programs
 
@@ -97,3 +98,7 @@ This repository contains my C programming practice programs while learning C.
 - Calculate Average of Multiple Numbers
 - Count Even and Odd Numbers
 - Reverse the Order of Command Line Arguments and more...
+
+### Bitwise Operators: 
+- Application of all Bitwise Operators(&,|,~,^,<<,>>)
+- Check Whether a Number is Even or Odd

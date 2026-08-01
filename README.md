@@ -102,3 +102,5 @@ This repository contains my C programming practice programs while learning C.
 ### Bitwise Operators: 
 - Application of all Bitwise Operators(&,|,~,^,<<,>>)
 - Check Whether a Number is Even or Odd
+- Count the Number of Set Bits
+- Toggle the Nth Bit and more...

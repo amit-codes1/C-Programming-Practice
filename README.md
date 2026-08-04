@@ -26,7 +26,7 @@ This repository contains my C programming practice programs while learning C.
 ### Basics:
 - Even Odd Checker
 - Positive Negative Checker
-- CelsiustoFarenheit and more...
+- Celsius to Farenheit and more...
 
 ### Conditional Statements:
 - Simple Calculator

@@ -19,6 +19,7 @@ This repository contains my C programming practice programs while learning C.
 - Preprocessor Directives
 - Command Line Arguments
 - Bitwise Operators
+- Enum
 
 ## Programs
 
@@ -104,3 +105,8 @@ This repository contains my C programming practice programs while learning C.
 - Check Whether a Number is Even or Odd
 - Count the Number of Set Bits
 - Toggle the Nth Bit and more...
+
+### Enum:
+- Create and Print Enum Values
+- Compare Enum Values
+- Enum and Loops

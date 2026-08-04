@@ -110,3 +110,5 @@ This repository contains my C programming practice programs while learning C.
 - Create and Print Enum Values
 - Compare Enum Values
 - Enum and Loops
+- Power State Simulator
+- Mini Calculator Using Enum and more...

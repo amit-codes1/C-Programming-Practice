@@ -20,6 +20,7 @@ This repository contains my C programming practice programs while learning C.
 - Command Line Arguments
 - Bitwise Operators
 - Enum
+- Typedef
 
 ## Programs
 
@@ -112,3 +113,8 @@ This repository contains my C programming practice programs while learning C.
 - Enum and Loops
 - Power State Simulator
 - Mini Calculator Using Enum and more...
+
+### Typedef:
+- Character Alias
+- Typedef with Array
+- Typedef with Nested Structures and more ...

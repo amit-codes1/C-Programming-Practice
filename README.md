@@ -117,4 +117,6 @@ This repository contains my C programming practice programs while learning C.
 ### Typedef:
 - Character Alias
 - Typedef with Array
-- Typedef with Nested Structures and more ...
+- Typedef with Nested Structures 
+- Typedef for Pointer to Structure
+- Typedef with Function Pointer and more ...
